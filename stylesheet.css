@@ -26,14 +26,9 @@ a {
   
 
 .top-wrapper h1 {
-  opacity: 0.5;
+  opacity: 0;
   font-size: 100px;
   letter-spacing: 10px;
-  text-shadow: 
-		0 0 0.05em #F06292,
-		0 0 0.10em #F06292,
-		0 0 0.15em #F06292,
-		0 0 0.30em #F06292;
 }
 
 .top-wrapper p {
