@@ -19,7 +19,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(GettyImages-652586288-e1543908915765);
+  background-image: url(GettyImages-652586288-e1543908915765.jpg);
   background-size: cover;
   color: white;
   text-align: center;
@@ -60,7 +60,7 @@ a {
 
 .btn {
   padding: 8px 24px;
-  color: white;
+  color: red;
   display: inline-block;
   opacity: 0.8;
   border-radius: 4px;
@@ -101,7 +101,7 @@ header {
 .header-right a {
   line-height: 65px;
   padding: 0 25px;
-  color: ;
+  color: white;
   display: block;
   float: left;
   transition: all 0.5s;
